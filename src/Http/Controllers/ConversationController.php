@@ -2,7 +2,7 @@
 
 namespace Musonza\Chat\Http\Controllers;
 
-use Chat;
+use Musonza\Chat\Facades\ChatFacade as Chat;
 use Exception;
 use Illuminate\Contracts\Routing\ResponseFactory;
 use Illuminate\Http\Response;
