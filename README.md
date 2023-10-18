@@ -32,6 +32,7 @@ php artisan migrate
 
 You can mix Models as participants. For instance you can have `Parents`, `Students` and `Professors` models communicating
 
+### adddd
 ### Add1ing the ability to participate to a Model 
 
 Add the `Musonza\Chat\Traits\Messageable` trait to any Model you want to participate in Conversations
